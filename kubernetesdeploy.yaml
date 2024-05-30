@@ -29,7 +29,6 @@ metadata:
 spec: 
   selector:
     app: bankapp-eta-app
-
   type: NodePort
   ports:
   - nodePort: 31032
