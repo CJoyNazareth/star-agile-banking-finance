@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: bankapp-eta-container
-        image: joynaz/bankapp-eta-app
+        image: joynaz/bankapp-eta-app:1.0
         ports:
         - containerPort: 8085
 ---
